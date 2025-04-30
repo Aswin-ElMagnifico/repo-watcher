@@ -1,4 +1,11 @@
+<p align="center" width="100%">
+<img src="https://github.com/user-attachments/assets/b4ed5002-4a20-428c-b115-af1c39616738" alt="repowatcher_logo" width="512"/>
+</p>
+
+
 # 🚀 RepoWatcher
+
+
 
 **RepoWatcher** is a lightweight, efficient Go-based tool designed to monitor GitHub repositories for new commits and automatically restart your services seamlessly.
 
